@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "my nodejs assignment",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+"scripts":{
+  "hello":"node helloworld.js"  
+  }
+}
   "author": "Jesse G Handley",
   "license": "ISC"
 }
