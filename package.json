@@ -1,10 +1,10 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
-  "description": "my nodejs assignment",
+  "description": "my HelloWorld assignment",
   "main": "index.js",
-"scripts":{
-  "hello":"node helloworld.js"  
+"scripts":{console.log("Hello, World!");
+  "hello": "node helloworld.js" 
   }
 }
   "author": "Jesse G Handley",
