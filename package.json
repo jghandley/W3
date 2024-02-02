@@ -1,17 +1,11 @@
 {
-  "name": "package.json",
+  "name": "nodejsexample-jesse",
   "version": "1.0.0",
-  "description": "my nodejs assignment",
+  "description": "NodeJS Project",
   "main": "index.js",
   "scripts": {
-  "hello": "node helloworld.js"  },
-  "author": "Jesse Handley",
+    "hello": "node helloworld.js"  },
+    "test": "echo hello",
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@expo/ngrok": "^4.1.0"
-  },
-  "devDependencies": {},
-  "keywords": [
-    "fun"
-  ]
 }
